@@ -1,4 +1,4 @@
-console.log("我开始了")
+console.log("我开始了1")
 function test(callback){
     var a
   setTimeout(()=>{
